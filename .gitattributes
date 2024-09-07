@@ -1,3 +1,3 @@
 # Auto detect text files and perform LF normalization
 * linguist-vendored
-*.PLSQL linguist-vendored=false
+*.SQL linguist-vendored=false
