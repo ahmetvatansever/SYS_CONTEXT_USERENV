@@ -4,7 +4,7 @@ SYS_CONTEXT fonksiyonu, Oracle veritabanında oturum veya ortam bilgilerini alma
 Bu fonksiyon, belirli bir bağlam adı ve öznitelik adı alır ve bu özniteliğin değerini döndürür. <br>
 SYS_CONTEXT için kullanıcı ve oturum bilgilerini döndüren USERENV bağlamında ne gibi bilgiler elde edebileceğimizi inceleyeceğiz. <br>
 
-Aşadağıdaki açıklamaları okuduktan sonra repoda yer alan SYS_CONTEXT_USERENV.sql dosyasında hazırlamış olduğum select sorgusu ile ilgili verilere erişebilirsiniz. <br>
+Aşadağıdaki açıklamaları okuduktan sonra repoda yer alan SYS_CONTEXT_USERENV.sql dosyası ile ilgili verilere erişebilirsiniz. <br>
 
 <br>
 
