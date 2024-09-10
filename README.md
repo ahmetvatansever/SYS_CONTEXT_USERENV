@@ -6,6 +6,11 @@ SYS_CONTEXT için kullanıcı ve oturum bilgilerini döndüren USERENV bağlamı
 
 Aşadağıdaki açıklamaları okuduktan sonra repoda yer alan SYS_CONTEXT_USERENV.sql dosyası ile ilgili verilere erişebilirsiniz. <br>
 
+## Kullanım Şekli
+**namespace** : Bilgi alınmak istenen bağlamın adı. Örneğin, 'USERENV' bağlamı, oturumla ilgili bilgiler verir. <br>
+**parameter** : İstenen spesifik bilginin adı. Örnek olarak aşağıdaki parametreler kullanılabilir. <br>
+**length** : Döndürülen stringin uzunluğunu belirler. <br>
+
 <br>
 
 1. **SESSION_USER**: Oturumun kullanıcı adını döndürür.
